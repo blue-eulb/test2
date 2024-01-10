@@ -1,6 +1,6 @@
 # README.md Practice
 
-![image description](image link)
+![image description](https://github.com/blue-eulb/test2/blob/main/assests/swim.jpg)
 
 ## Instructions
 
