@@ -1,6 +1,6 @@
 # README.md Practice
 
-(https://github.com/blue-eulb/test2/blob/main/assests/swim.jpg)
+![image description](image link)
 
 ## Instructions
 
@@ -14,5 +14,7 @@ Recently working on a project using:
 1. Hello there
 
 
-> **Warning**
+> **Hello**
 > This is to add to the box i assume
+
+[![Open BioDrop in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/EddieHubCommunity/BioDrop)
