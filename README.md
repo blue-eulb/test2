@@ -17,4 +17,6 @@ Recently working on a project using:
 > **Hello**
 > This is to add to the box i assume
 
+## Anchor to image
+[![description](image link)](direct to link)
 [![Open BioDrop in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/EddieHubCommunity/BioDrop)
