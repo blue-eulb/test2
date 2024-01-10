@@ -26,4 +26,12 @@ Recently working on a project using:
 
 `Put text in box`
 
-```print("HELLO world! I am creating a block of code
+```python
+def hello():
+  print("HELLO world! I am creating a block of code
+```
+
+### Hello
+
+```markdown
+<!-- This is a comment -->
