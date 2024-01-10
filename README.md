@@ -14,8 +14,9 @@ Recently working on a project using:
 1. Hello there
 
 
-> **Hello**
-> This is to add to the box i assume
+> **Hello** (this is to bold the word)
+
+> This is to add to the box and dim 
 
 ## Anchor to image
 [![description](image link)](direct to link)
