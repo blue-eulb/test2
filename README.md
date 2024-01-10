@@ -1,3 +1,3 @@
 # test2
 
-![a man swimming toward the light)(https://github.com/blue-eulb/test2/blob/main/assests/swim.jpg)
+![BioDrop logo on a sticker](https://github.com/EddieHubCommunity/BioDrop/assets/624760/31adec45-3dc3-4353-b37a-9b316a217261)
